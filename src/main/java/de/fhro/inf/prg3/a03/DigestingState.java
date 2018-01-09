@@ -7,4 +7,6 @@ package de.fhro.inf.prg3.a03;
  * @project 03-inheritancea
  */
 public class DigestingState extends State {
+
+
 }
