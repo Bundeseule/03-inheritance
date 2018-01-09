@@ -2,7 +2,7 @@ package de.fhro.inf.prg3.a03.states;
 
 import de.fhro.inf.prg3.a03.Animal;
 import de.fhro.inf.prg3.a03.State;
-import de.fhro.inf.prg3.a03.states.HungryState;
+
 
 /**
  * @author Created by Bundeseule on 18.12.2017 at 16:11

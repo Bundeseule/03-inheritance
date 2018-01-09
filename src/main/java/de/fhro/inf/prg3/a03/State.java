@@ -13,8 +13,8 @@ public abstract class State {
 
     protected final Animal animal;
 
-    private int time;
-    private final int duration;
+    protected int time;
+    protected final int duration;
 
     protected State(Animal animal, int duration) {
         this.animal = animal;
