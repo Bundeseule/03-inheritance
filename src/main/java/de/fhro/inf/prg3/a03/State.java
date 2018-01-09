@@ -22,7 +22,7 @@ public abstract class State {
     }
 
 
-    public State tick() {
+    final State tick() {
         if (duration < 0) return this;
         if (++time == duration) {
             return successor();
